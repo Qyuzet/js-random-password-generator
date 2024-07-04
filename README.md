@@ -4,6 +4,8 @@
 
 The **JS Random Password Generator** is a web application designed to create secure, random passwords based on user-defined criteria. Built using JavaScript, HTML, and CSS, this project demonstrates essential front-end development skills and offers a practical tool for generating passwords.
 
+[TRY NOW!](https://qyuzet.github.io/js-random-password-generator/)
+
 ## Features
 
 - **Customizable Password Length**: Users can specify the desired length of the password.
