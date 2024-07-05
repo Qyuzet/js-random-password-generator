@@ -6,6 +6,8 @@ The **JS Random Password Generator** is a web application designed to create sec
 
 [TRY NOW!](https://qyuzet.github.io/js-random-password-generator/)
 
+![image](https://github.com/Qyuzet/js-random-password-generator/assets/93258081/e3bae981-814e-489b-9f67-6fb104e0ccf1)
+
 ## Features
 
 - **Customizable Password Length**: Users can specify the desired length of the password.
